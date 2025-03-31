@@ -1,0 +1,17 @@
+
+.idea/
+.vscode/
+
+
+.DS_Store
+Thumbs.db
+
+
+*.log
+*.tmp
+*.swp
+
+
+*.jar
+*.war
+*.ear
