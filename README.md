@@ -2,4 +2,4 @@
 Winter GUI using Java Swing ❄️❄️❄️
 
 
-[picture](src/resources/picture.png)
+![picture](src/resources/picture.png)
