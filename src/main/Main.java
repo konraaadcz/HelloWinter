@@ -2,13 +2,13 @@
 package main;
 
 import javax.swing.*;
-import gui.SnowAnimationFrame;
+import gui.SnowA;
 
 public class Main {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
-            SnowAnimationFrame frame = new SnowAnimationFrame();
-            frame.setVisible(true);
+            SnowA fr = new SnowA();
+            fr.setVisible(true);
         });
     }
 }
