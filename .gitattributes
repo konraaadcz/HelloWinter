@@ -1,0 +1,18 @@
+
+* text=auto
+
+
+*.java text eol=lf
+
+
+*.sh text eol=lf
+*.bat text eol=crlf
+
+
+*.jar binary
+*.class binary
+*.png binary
+*.jpg binary
+*.gif binary
+*.zip binary
+*.tar.gz binary
