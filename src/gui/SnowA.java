@@ -15,11 +15,11 @@ import java.util.Random;
 
 
 
-public class SnowAnimationFrame extends JFrame {
+public class SnowA extends JFrame {
 
     private final SnowPanel snowPanel;
 
-    public SnowAnimationFrame() {
+    public SnowA() {
         setTitle("Hello Winter");
         setSize(800, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
